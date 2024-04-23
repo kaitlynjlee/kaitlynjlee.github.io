@@ -1,6 +1,6 @@
 ---
 title: "Kaitlyn Lee"
-image: "headshot.png"
+image: "headshot.jpeg"
 links:
   - label: LinkedIn
     url: "www.linkedin.com/in/kaitlyn-lee-7a6498134"
@@ -15,11 +15,11 @@ output:
 ## Bio
 
 Kaitlyn Lee is a MA/PhD student in Biostatistics at the UC Berkeley mentored by 
-Alejandro Schuler. Her research interests are broadly in causal inference, 
-machine learning, and methods research. She is interested in developing methods 
-to answer real-world questions about health and social policy in a statistically 
-rigorous manner. Her current work focuses on causal inference with continuous 
-treatment variables.
+[Alejandro Schuler](https://www.rwm-group.org). Her research interests are 
+broadly in causal inference, machine learning, and methods research. She is 
+interested in developing methods to answer real-world questions about health and 
+social policy in a statistically rigorous manner. Her current work focuses on 
+causal inference with continuous treatment variables.
 
 ## Education
 
@@ -48,10 +48,10 @@ UC Berkeley Chancellor's Fellowship | 2022 - 2023
 
 ## Experience
 
-**Center for Targeted Machine Learning, UC Berkeley** | Graduate Student Researcher | Fall 2023 - Present
+[**Center for Targeted Machine Learning**](https://ctml.berkeley.edu)**, UC Berkeley** | Graduate Student Researcher | Fall 2023 - Present
 
-**Cornerstone Research** | Senior Analyst | January 2017 - June 2022
+[**Cornerstone Research**](https://www.cornerstone.com) | Senior Analyst | January 2017 - June 2022
 
-**Huybers Lab, Harvard University** | Research Assistant | May 2020 - December 2020
+[**Huybers Lab**](https://phuybers.sites.fas.harvard.edu)**, Harvard University** | Research Assistant | May 2020 - December 2020
 
 
