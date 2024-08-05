@@ -6,10 +6,10 @@ links:
     url: "https://linkedin.com/in/kaitlyn-lee-7a6498134"
   - label: GitHub
     url: "https://github.com/kaitlynjlee"
-  - label: Email
-    url: "mailto:kaitlyn_lee@berkeley.edu"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=sD0Wr-EAAAAJ&hl=en&oi=ao"
+  - label: Email
+    url: "mailto:kaitlyn_lee@berkeley.edu"
 output:
   postcards::trestles
 ---
