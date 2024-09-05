@@ -29,7 +29,7 @@ causal inference with continuous treatment variables.
 
 PhD in Biostatistics | August 2022 - May 2027 (expected)
 
-MA in Biostatistics | August 2022 - August 2024 (expected)
+MA in Biostatistics | August 2022 - August 2024
 
 
 **Harvard College** | Cambridge, MA
@@ -52,8 +52,13 @@ UC Berkeley Chancellor's Fellowship | 2022 - 2023
 
 [**Center for Targeted Machine Learning**](https://ctml.berkeley.edu)**, UC Berkeley** | Graduate Student Researcher | Fall 2023 - Present
 
-[**Cornerstone Research**](https://www.cornerstone.com) | Senior Analyst | January 2017 - June 2022
+[**Cornerstone Research**](https://www.cornerstone.com) | Analyst | January 2017 - June 2022
 
 [**Huybers Lab**](https://phuybers.sites.fas.harvard.edu)**, Harvard University** | Research Assistant | May 2020 - December 2020
 
+## Publications and Conference Presentations
 
+-	**Lee, K. J.**, Hubbard, A., Schuler, A. (2024). Bridging Binarization: Causal Inference with Dichotomized Continuous Exposures. [arXiv:2405.07109](https://arxiv.org/abs/2405.07109). (In Review)
+-	**Lee, K. J.**, Hubbard, A., Schuler, A. (2024, May 15). *Bridging Binarization: Causal Inference with Dichotomized Continuous Treatments* [Poster Session]. American Causal Inference Conference, Seattle, WA.
+-	**Lee, K. J.**, Hubbard, A., Schuler, A. (2024, June 20). *Bridging Binarization: Causal Inference with Dichotomized Continuous Treatments* [Poster Session]. Society of Epidemiological Research Conference, Austin, TX.
+-	Gordon, E. R., Trager, M. H., Kwinta, B. D., Stonesifer, C. J., **Lee, K. J.**, Adeuyan, O., … Geskin, L. J. (2024). Maintenance therapy for CTCL: importance for prevention of disease progression. *Leukemia & Lymphoma*, 1–8. [https://doi.org/10.1080/10428194.2024.2376164](https://doi.org/10.1080/10428194.2024.2376164).
