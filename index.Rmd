@@ -16,12 +16,12 @@ output:
  
 ## Bio
 
-Kaitlyn Lee is a MA/PhD student in Biostatistics at the UC Berkeley mentored by 
-[Professor Alejandro Schuler](https://www.rwm-group.org). Her research interests are 
+Kaitlyn Lee is a third year PhD student in Biostatistics at the UC Berkeley mentored by 
+[Professor Alejandro Schuler](https://ctml.berkeley.edu/people/alejandro-schuler-phd). Her research interests are 
 broadly in causal inference, machine learning, and methods research. She is 
 interested in developing methods to answer real-world questions about health and 
 social policy in a statistically rigorous manner. Her current work focuses on 
-causal inference with continuous treatment variables.
+efficient estimation of causal quantities using machine learning algorithms.
 
 ## Education
 
