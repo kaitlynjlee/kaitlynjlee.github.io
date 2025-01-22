@@ -57,7 +57,7 @@ UC Berkeley Chancellor's Fellowship | 2022 - 2023
 [**Huybers Lab**](https://phuybers.sites.fas.harvard.edu)**, Harvard University** | Research Assistant | May 2020 - December 2020
 
 ## Publications and Conference Presentations
-
+-	**Lee, K. J.**, Schuler, A. (2025). RieszBoost: Gradient Boosting for Riesz Regression. [arXiv:2501.04871](https://arxiv.org/abs/2501.04871).
 -	**Lee, K. J.**, Hubbard, A., Schuler, A. (2024). Bridging Binarization: Causal Inference with Dichotomized Continuous Exposures. [arXiv:2405.07109](https://arxiv.org/abs/2405.07109). (In Review)
 -	**Lee, K. J.**, Hubbard, A., Schuler, A. (2024, May 15). *Bridging Binarization: Causal Inference with Dichotomized Continuous Treatments* [Poster Session]. American Causal Inference Conference, Seattle, WA.
 -	**Lee, K. J.**, Hubbard, A., Schuler, A. (2024, June 20). *Bridging Binarization: Causal Inference with Dichotomized Continuous Treatments* [Poster Session]. Society of Epidemiological Research Conference, Austin, TX.
